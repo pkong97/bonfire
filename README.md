@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/pkong97/bonfire/master/graphics/bonfire-logo.png)
+![logo](https://github.com/pkong97/bonfire/blob/master/graphics/Bonfire-3.png)
 # [Bonfire: the Intelligent Food App](https://devpost.com/software/bonfire-the-intelligent-food-app-s7lngr)
 
 ## Inspiration
